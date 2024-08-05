@@ -6,10 +6,10 @@ import FramerWrapper from "./FramerWrapper";
 
 const SocialLinks = () => {
   const links = [
-    { name: "Facebook", link: "https://www.facebook.com/shahina.khatun.1044", icon: <Facebook /> },
-    { name: "Twitter", link: "https://twitter.com/Taquiimam14", icon: <Twitter /> },
-    { name: "Linkedin", link: "https://www.linkedin.com/in/taqui-imam", icon: <Linkedin /> },
-    { name: "External", link: "https://tinyurl.com/MdTaquiImam", icon: <ExternalLink /> },
+    { name: "Facebook", link: "https://www.facebook.com/this.lebo/", icon: <Facebook /> },
+    { name: "Twitter", link: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwia64O136iHAxWsW0EAHeDeDbwQFnoECCIQAQ&url=https%3A%2F%2Ftwitter.com%2Fthis_lebo&usg=AOvVaw1lC6ZRMYDwJ3wZbe2UKrSF&opi=89978449", icon: <Twitter /> },
+    { name: "Linkedin", link: "https://www.linkedin.com/in/lebogang-mawaya-184970168/", icon: <Linkedin /> },
+    { name: "External", link: "https://github.com/mawayalebo", icon: <ExternalLink /> },
   ];
   return (
     <>
